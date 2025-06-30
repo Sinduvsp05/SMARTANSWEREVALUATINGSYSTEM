@@ -1,6 +1,3 @@
-# SMARTANSWEREVALUATINGSYSTEM
-Excellent—based on the **app.py** you shared, here’s a professional, clear **README.md** you can copy and use for your repository:
-
 ---
 
 # 🧠 Smart Answer Evaluator
