@@ -105,11 +105,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots here if desired!*
-
----
 
 ## 🤖 Built With
 
